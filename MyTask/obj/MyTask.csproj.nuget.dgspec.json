@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\Impacta\\MyTask\\MyTask.csproj": {}
+    "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\MyTask.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\Impacta\\MyTask\\MyTask.csproj": {
+    "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\MyTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\Impacta\\MyTask\\MyTask.csproj",
+        "projectUniqueName": "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\MyTask.csproj",
         "projectName": "MyTask",
-        "projectPath": "C:\\DEV\\Impacta\\MyTask\\MyTask.csproj",
+        "projectPath": "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\MyTask.csproj",
         "packagesPath": "C:\\Users\\mesel\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\Impacta\\MyTask\\obj\\",
+        "outputPath": "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mesel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {

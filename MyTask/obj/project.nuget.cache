@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PK3b+1Ub4Tz+SRoz8hnv53i/jMvuI6Ki389jQwbq40qS6JwAeIdukxW008dwB4bijIWYszF10gbAoeApCFHYuQ==",
+  "dgSpecHash": "/c/IRH+lDZCBoVn4BQ01bp6eRoiOGb3GB7lYI7e4Y4AOOntmO9yx78/xYgr4yATS7xNncEDW0NHEKesX1jJwLg==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\Impacta\\MyTask\\MyTask.csproj",
+  "projectFilePath": "C:\\DEV\\.NET\\FaculdadeImpacta\\MyTask\\MyTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mesel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mesel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
